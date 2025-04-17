@@ -42,4 +42,4 @@ This project was developed with contributions from:
 
 - [Carlos Lizarazo](https://github.com/JavierS2)
 - [Carlos Romero](https://github.com/JavierS2)
-- [Javier Santodomingo](https://github.com/JavierS2)- Main .
+- [Javier Santodomingo](https://github.com/JavierS2)
