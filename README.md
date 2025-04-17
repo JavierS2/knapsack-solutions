@@ -41,5 +41,5 @@ A detailed report on the implementation, methodology, and results of the algorit
 This project was developed with contributions from:
 
 - [Carlos Lizarazo](https://github.com/JavierS2)
-- [Carlos Romero](https://github.com/JavierS2)
+- [Carlos Romero](https://github.com/Carlos-RomeroRo)
 - [Javier Santodomingo](https://github.com/JavierS2)
