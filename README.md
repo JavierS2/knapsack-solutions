@@ -2,22 +2,18 @@
 
 This project solves the 0-1 Knapsack Problem using bioinspired algorithms, including Genetic Algorithm, Ant Colony Optimization, and Simulated Annealing. A detailed project report can be found [here](./report_knapsack_problem.pdf), which discusses the methodology, algorithmic design, and results in depth.
 
-- Ant Colony Optimization (`colonias_de_hormigas.py`)
-- Simulated Annealing (`enfriamiento_simulado.py`)
+- Ant Colony Optimization (`algorithm_aco.py`)
+- Simulated Annealing (`algorithm_simulated_annealing.py`)
 
 ## Problem Description
-The problem is to maximize the value of items packed in a knapsack without exceeding the weight limit. The maximum capacity of the knapsack in this case is 2.45kg (or 2450 grams). The input data for the problem is stored in the Excel file `Mochila_capacidad_maxima_2.45kg.xlsx`.
+The problem is to maximize the value of items packed in a knapsack without exceeding the weight limit. The maximum capacity of the knapsack in this case is 2.45kg (or 2450 grams). The input data for the problem is stored in the Excel file `data_4kg.xlsx`.
 
 ## Algorithms Implemented
-1. **Genetic Algorithm (`algoritmo_genetico.py`)**:
-   - Uses genetic evolution techniques such as selection, crossover, and mutation to solve the problem.
-   - Results are stored in the `resultadosGA1.xlsx` file.
-
-2. **Ant Colony Optimization (`colonias_de_hormigas.py`)**:
+1. **Ant Colony Optimization (`colonias_de_hormigas.py`)**:
    - Simulates the behavior of ants to find the optimal solution.
    - Results are stored in the `resultadosACO4.xlsx` file.
 
-3. **Simulated Annealing (`enfriamiento_simulado.py`)**:
+2. **Simulated Annealing (`enfriamiento_simulado.py`)**:
    - Uses a probabilistic technique to explore the solution space by "cooling" the solution over time.
    - Results are stored in the `resultadosSA.xlsx` file.
 
@@ -30,9 +26,8 @@ pip install numpy matplotlib pandas
 **To run the scripts**, execute the following commands in your terminal:
 
 ```bash
-python algoritmo_genetico.py
-python colonias_de_hormigas.py
-python enfriamiento_simulado.py
+python algorithm_aco.py
+python algorithm_simulated_annealing.py
 ```
 
 ## Project Report
@@ -45,7 +40,6 @@ A detailed report on the implementation, methodology, and results of the algorit
 ## Contributors
 This project was developed with contributions from:
 
-- [Cristopher Hernandez Romanos](https://github.com/Cdhernadnezr)- Main .
-- [Deiner Cassiani Garcia]
-- [Mauricio De La Hoz Figueroa]
-- [Ruben Mejía Niebles ]
+- [Carlos Lizarazo](https://github.com/JavierS2)
+- [Carlos Romero](https://github.com/JavierS2)
+- [Javier Santodomingo](https://github.com/JavierS2)- Main .
