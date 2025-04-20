@@ -14,11 +14,11 @@ items = np.array(items_tup)
 max_weight = 4.0  # in kg
 
 # Configurable Parameters
-num_ants = 8
-num_iterations = 50
+num_ants = 30
+num_iterations = 100
 initial_pheromone = 0.6     
 evaporation = 0.4         
-alpha = 2.0                 
+alpha = 1.5        
 beta = 0.5
 
 # Initialize pheromones

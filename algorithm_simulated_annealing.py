@@ -27,7 +27,7 @@ for _, row in df.iterrows():
 
 class KnapsackProblem:
     def __init__(self, items, capacity):
-        self.items = items
+        self.items = items 
         self.capacity = capacity
 
     def total_value(self, solution):
