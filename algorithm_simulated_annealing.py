@@ -125,7 +125,7 @@ def save_results_to_excel(run_number, value, time, iteration, weight, solution):
     results = pd.concat([results, new_record], ignore_index=True)
     results.to_excel(file, index=False)
 
-# Ejecutando el algoritmo
+# EJECUTANDO EL ALGORITMO
 problem = KnapsackProblem(items, backpack_capacity)
 solution, value, weight, time, history, iteration = problem.solve(initial_temperature, cooling_factor, total_iterations, final_temperature)
 
