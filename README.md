@@ -47,6 +47,6 @@ python algorithm_simulated_annealing.py
 ## Contribuidores 
 Este proyecto fue desarrollado con la colaboración de:
 
-> [Carlos Lizarazo](https://github.com/CALR0)
-> [Carlos Romero](https://github.com/Carlos-RomeroRo)
-> [Javier Santodomingo](https://github.com/JavierS2)
+>- [Carlos Lizarazo](https://github.com/CALR0)
+>- [Carlos Romero](https://github.com/Carlos-RomeroRo)
+>- [Javier Santodomingo](https://github.com/JavierS2)
