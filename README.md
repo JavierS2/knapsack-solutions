@@ -6,7 +6,7 @@
 
 ## 🌟 Introducción
 
-La naturaleza, con su increíble capacidad de adaptación, ha servido de modelo para crear algoritmos que resuelven problemas de optimización difíciles de abordar por métodos tradicionales. En este informe, exploramos dos técnicas bioinspiradas que han revolucionado la forma en que resolvemos problemas complejos:
+La naturaleza, con su increíble capacidad de adaptación, ha servido de modelo para crear algoritmos que resuelven problemas de optimización difíciles de abordar por métodos tradicionales. En este proyecto, exploramos dos técnicas bioinspiradas que han revolucionado la forma en que resolvemos problemas complejos:
 
 ### 🐜 Colonia de Hormigas (Ant Colony Optimization)
 
